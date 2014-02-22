@@ -8,14 +8,17 @@ Tools used: HTML5, CSS3, jQuery, Underscore
 
 More: We used customized fonts
 
-File Structure: 
-	data: contain json files 
-	fonts: contains fonts
-	images:
-	scripts: 
-		vendor
-	styles:
-		html5
+File Structure (directories): 
+
+*	data: contain json files 
+* 	fonts: contains fonts
+*	images:
+*	scripts: 
+	*	vendor
+* 	styles:
+	*	html5
+
+Files
 
 index.html
 Application2.html
