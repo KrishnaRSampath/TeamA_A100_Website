@@ -20,5 +20,5 @@ File Structure (directories):
 
 HTML files
 
-index.html
-Application2.html
+*	index.html
+*	Application2.html
