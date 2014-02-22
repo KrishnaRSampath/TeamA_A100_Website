@@ -6,7 +6,7 @@ Challenge: Rebuild A100 website
 
 Tools used: HTML5, CSS3, jQuery, Underscore
 
-More: We used customized fonts
+More: We used third-party fonts
 
 File Structure (directories): 
 
