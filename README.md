@@ -18,7 +18,7 @@ File Structure (directories):
 * 	styles:
 	*	html5
 
-Files
+HTML files
 
 index.html
 Application2.html
